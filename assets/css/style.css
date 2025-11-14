@@ -49,3 +49,26 @@ hr {
 .site-nav {
   font-family: "Lato", sans-serif;
 }
+
+/* Cozy Footer */
+.cozy-footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  margin-top: 4rem;
+  background: var(--oat);
+  color: var(--ink);
+  border-radius: 16px;
+  font-size: 0.9rem;
+}
+
+.cozy-footer a {
+  color: var(--cocoa);
+  border: none;
+  margin: 0 0.5rem;
+}
+
+.cozy-footer .tiny {
+  opacity: 0.6;
+  font-size: 0.8rem;
+  margin-top: 1rem;
+}
