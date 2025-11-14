@@ -12,8 +12,9 @@ plugins:
 # Navigation
 header_pages:
   - index.md
-  - kits.md
   - about.md
+  - kits.md
+  - blog.md
 
 # Minima theme tweaks
 minima:
