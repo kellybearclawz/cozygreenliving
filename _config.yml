@@ -1,0 +1,20 @@
+title: "The Cozy Book Club"
+description: "Seasonal reading rituals, book club tools, and cozy literary inspiration."
+url: "https://YOURDOMAIN.com" 
+theme: minima
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+
+# Navigation
+header_pages:
+  - index.md
+  - kits.md
+  - about.md
+
+# Minima theme tweaks
+minima:
+  skin: classic
