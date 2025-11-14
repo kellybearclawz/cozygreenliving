@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Welcome to The Cozy Book Club ✨
+# Welcome to Cozy Green Living ✨
 
-A quiet space for readers who love slow mornings, soft blankets, seasonal rituals,  
+A quiet space for people who love slow mornings, soft blankets, seasonal rituals,  
 and stories that linger long after the last page.
 
 Here you’ll find:
